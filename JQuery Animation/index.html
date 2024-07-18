@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Toggle Square Size</title>
+    <style>
+      #square {
+        width: 100px;
+        height: 100px;
+        background-color: blue;
+        margin: 20px auto;
+        transition: width 0.5s, height 0.5s;
+      }
+    </style>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  </head>
+  <body>
+    <div id="square"></div>
+    <button id="toggleButton">Toggle Size</button>
+
+    <script>
+      $(document).ready(function () {
+        $("#toggleButton").click(function () {
+          $("#square").animate(
+            {
+              width: $("#square").width() == 100 ? 200 : 100,
+              height: $("#square").height() == 100 ? 200 : 100,
+            },
+            500
+          );
+        });
+      });
+    </script>
+  </body>
+</html>

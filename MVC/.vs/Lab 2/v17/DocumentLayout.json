@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\Lab 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B072050-A589-48BC-8A1B-658F8FAD4975}|Lab 2\\Lab 2.csproj|c:\\users\\bijay\\desktop\\class\\labs\\net centric computing\\dotnet labs\\lab 2\\lab 2\\lab 2\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B072050-A589-48BC-8A1B-658F8FAD4975}|Lab 2\\Lab 2.csproj|solutionrelative:lab 2\\controllers\\contactcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B072050-A589-48BC-8A1B-658F8FAD4975}|Lab 2\\Lab 2.csproj|c:\\users\\bijay\\desktop\\class\\labs\\net centric computing\\dotnet labs\\lab 2\\lab 2\\lab 2\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B072050-A589-48BC-8A1B-658F8FAD4975}|Lab 2\\Lab 2.csproj|solutionrelative:lab 2\\views\\contact\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B072050-A589-48BC-8A1B-658F8FAD4975}|Lab 2\\Lab 2.csproj|c:\\users\\bijay\\desktop\\class\\labs\\net centric computing\\dotnet labs\\lab 2\\lab 2\\lab 2\\models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B072050-A589-48BC-8A1B-658F8FAD4975}|Lab 2\\Lab 2.csproj|solutionrelative:lab 2\\models\\contactmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B072050-A589-48BC-8A1B-658F8FAD4975}|Lab 2\\Lab 2.csproj|c:\\users\\bijay\\desktop\\class\\labs\\net centric computing\\dotnet labs\\lab 2\\lab 2\\lab 2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5B072050-A589-48BC-8A1B-658F8FAD4975}|Lab 2\\Lab 2.csproj|solutionrelative:lab 2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\Lab 2\\Lab 2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Lab 2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\Lab 2\\Lab 2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Lab 2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T13:43:10.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContactModel.cs",
+              "DocumentMoniker": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\Lab 2\\Lab 2\\Models\\ContactModel.cs",
+              "RelativeDocumentMoniker": "Lab 2\\Models\\ContactModel.cs",
+              "ToolTip": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\Lab 2\\Lab 2\\Models\\ContactModel.cs",
+              "RelativeToolTip": "Lab 2\\Models\\ContactModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:29:16.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\Lab 2\\Lab 2\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "Lab 2\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\Lab 2\\Lab 2\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "Lab 2\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T13:28:01.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\Lab 2\\Lab 2\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "Lab 2\\Controllers\\ContactController.cs",
+              "ToolTip": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\Lab 2\\Lab 2\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "Lab 2\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T13:27:34.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

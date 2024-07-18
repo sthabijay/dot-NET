@@ -1,0 +1,44 @@
+﻿@model ContactModel
+
+@if(ViewBag.SucessMessage != null)
+{
+    <div>
+        @ViewBag.SucessMessage
+    </div>
+}
+
+<form method="post">
+    <div>
+        <label>First Name</label>
+        <div>
+            <input asp-for="FirstName"/>
+            <span asp-validation-for="FirstName"></span>
+        </div>
+    </div>
+    <div>
+        <label>Last Name</label>
+        <div>
+            <input asp-for="LastName" />
+            <span asp-validation-for="LastName"></span>
+        </div>
+    </div>
+    <div>
+        <label>Email</label>
+        <div>
+            <input asp-for="Email" />
+            <span asp-validation-for="Email"></span>
+        </div>
+    </div>
+    <div>
+        <label>Message</label>
+        <div>
+            <textarea asp-for="Message"></textarea>
+            <span asp-validation-for="Message"></span>
+        </div>
+    </div>
+    <div>
+        <div>
+            <button type="submit">Submit</button>
+        </div>
+    </div>
+</form>

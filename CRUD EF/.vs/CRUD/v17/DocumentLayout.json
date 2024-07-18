@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B967FB6-FAC2-4A4A-85CB-74094E84931F}|CRUD\\CRUD.csproj|c:\\users\\bijay\\desktop\\class\\labs\\net centric computing\\dotnet labs\\lab 2\\crud\\crud\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B967FB6-FAC2-4A4A-85CB-74094E84931F}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B967FB6-FAC2-4A4A-85CB-74094E84931F}|CRUD\\CRUD.csproj|c:\\users\\bijay\\desktop\\class\\labs\\net centric computing\\dotnet labs\\lab 2\\crud\\crud\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B967FB6-FAC2-4A4A-85CB-74094E84931F}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\employee\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B967FB6-FAC2-4A4A-85CB-74094E84931F}|CRUD\\CRUD.csproj|c:\\users\\bijay\\desktop\\class\\labs\\net centric computing\\dotnet labs\\lab 2\\crud\\crud\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B967FB6-FAC2-4A4A-85CB-74094E84931F}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B967FB6-FAC2-4A4A-85CB-74094E84931F}|CRUD\\CRUD.csproj|c:\\users\\bijay\\desktop\\class\\labs\\net centric computing\\dotnet labs\\lab 2\\crud\\crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B967FB6-FAC2-4A4A-85CB-74094E84931F}|CRUD\\CRUD.csproj|solutionrelative:crud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B967FB6-FAC2-4A4A-85CB-74094E84931F}|CRUD\\CRUD.csproj|c:\\users\\bijay\\desktop\\class\\labs\\net centric computing\\dotnet labs\\lab 2\\crud\\crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B967FB6-FAC2-4A4A-85CB-74094E84931F}|CRUD\\CRUD.csproj|solutionrelative:crud\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B967FB6-FAC2-4A4A-85CB-74094E84931F}|CRUD\\CRUD.csproj|c:\\users\\bijay\\desktop\\class\\labs\\net centric computing\\dotnet labs\\lab 2\\crud\\crud\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B967FB6-FAC2-4A4A-85CB-74094E84931F}|CRUD\\CRUD.csproj|solutionrelative:crud\\data\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B967FB6-FAC2-4A4A-85CB-74094E84931F}|CRUD\\CRUD.csproj|c:\\users\\bijay\\desktop\\class\\labs\\net centric computing\\dotnet labs\\lab 2\\crud\\crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B967FB6-FAC2-4A4A-85CB-74094E84931F}|CRUD\\CRUD.csproj|solutionrelative:crud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B967FB6-FAC2-4A4A-85CB-74094E84931F}|CRUD\\CRUD.csproj|c:\\users\\bijay\\desktop\\class\\labs\\net centric computing\\dotnet labs\\lab 2\\crud\\crud\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B967FB6-FAC2-4A4A-85CB-74094E84931F}|CRUD\\CRUD.csproj|solutionrelative:crud\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B967FB6-FAC2-4A4A-85CB-74094E84931F}|CRUD\\CRUD.csproj|c:\\users\\bijay\\desktop\\class\\labs\\net centric computing\\dotnet labs\\lab 2\\crud\\crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2B967FB6-FAC2-4A4A-85CB-74094E84931F}|CRUD\\CRUD.csproj|solutionrelative:crud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B967FB6-FAC2-4A4A-85CB-74094E84931F}|CRUD\\CRUD.csproj|c:\\users\\bijay\\desktop\\class\\labs\\net centric computing\\dotnet labs\\lab 2\\crud\\crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2B967FB6-FAC2-4A4A-85CB-74094E84931F}|CRUD\\CRUD.csproj|solutionrelative:crud\\crud.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\CRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T06:40:53.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\CRUD\\Views\\Employee\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\Employee\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\CRUD\\Views\\Employee\\Edit.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Employee\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T22:49:26.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\CRUD\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\CRUD\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Employee\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T22:12:58.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\CRUD\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "CRUD\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\CRUD\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "CRUD\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T21:46:38.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\CRUD\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "CRUD\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\CRUD\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "CRUD\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFMAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:03:46.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\CRUD\\Program.cs",
+              "RelativeDocumentMoniker": "CRUD\\Program.cs",
+              "ToolTip": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\CRUD\\Program.cs",
+              "RelativeToolTip": "CRUD\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T21:01:49.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\CRUD\\Data\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "CRUD\\Data\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\CRUD\\Data\\ApplicationContext.cs",
+              "RelativeToolTip": "CRUD\\Data\\ApplicationContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:52:43.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\CRUD\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "CRUD\\Models\\Employees.cs",
+              "ToolTip": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\CRUD\\Models\\Employees.cs",
+              "RelativeToolTip": "CRUD\\Models\\Employees.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T20:49:07.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\CRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "CRUD\\appsettings.json",
+              "ToolTip": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\CRUD\\appsettings.json",
+              "RelativeToolTip": "CRUD\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-11T20:43:43.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CRUD.csproj",
+              "DocumentMoniker": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\CRUD\\CRUD.csproj",
+              "RelativeDocumentMoniker": "CRUD\\CRUD.csproj",
+              "ToolTip": "C:\\Users\\bijay\\Desktop\\Class\\Labs\\NET Centric Computing\\dotnet labs\\Lab 2\\CRUD\\CRUD\\CRUD.csproj",
+              "RelativeToolTip": "CRUD\\CRUD.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-11T20:27:53.35Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
